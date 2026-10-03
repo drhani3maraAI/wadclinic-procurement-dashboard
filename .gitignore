@@ -1,0 +1,5 @@
+# Keep raw data out of the repository (index.html holds the encrypted copy)
+data/*.xlsx
+scripts/dashboard_data.json
+__pycache__/
+.DS_Store
